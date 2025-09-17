@@ -1,0 +1,698 @@
+[
+  {
+    "timestamp": "2025-09-17T01:09:26.922714",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "0095",
+    "decoded_value": 149,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:27.940187",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "0320",
+    "decoded_value": 800,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:29.012371",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "0056",
+    "decoded_value": 86,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:30.014833",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "0002",
+    "decoded_value": 2,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:31.089399",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "13a7",
+    "decoded_value": 5031,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:32.099626",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "006d",
+    "decoded_value": 109,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:33.174830",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "002c",
+    "decoded_value": 44,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:34.218493",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "131d",
+    "decoded_value": 4893,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:35.233288",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "0051",
+    "decoded_value": 81,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:36.307710",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "006b",
+    "decoded_value": 107,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:37.321720",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "14fa",
+    "decoded_value": 5370,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:38.395659",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "0066",
+    "decoded_value": 102,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:39.396669",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "003f",
+    "decoded_value": 63,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:40.468665",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "0433",
+    "decoded_value": 1075,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:41.480893",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "004e",
+    "decoded_value": 78,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:42.482874",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "0096",
+    "decoded_value": 150,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:43.495465",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "0905",
+    "decoded_value": 2309,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:44.567779",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "0062",
+    "decoded_value": 98,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:45.619258",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "0046",
+    "decoded_value": 70,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:46.647822",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "05dc",
+    "decoded_value": 1500,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:47.657597",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "0062",
+    "decoded_value": 98,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:48.729798",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "0058",
+    "decoded_value": 88,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:49.800902",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "1207",
+    "decoded_value": 4615,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:50.839380",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "0066",
+    "decoded_value": 102,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:51.915353",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "007f",
+    "decoded_value": 127,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:52.941108",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "0da6",
+    "decoded_value": 3494,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:53.994004",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "004f",
+    "decoded_value": 79,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:55.009392",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "0039",
+    "decoded_value": 57,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:56.062964",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "049d",
+    "decoded_value": 1181,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:57.075052",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "0062",
+    "decoded_value": 98,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:58.084842",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "0096",
+    "decoded_value": 150,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:09:59.155091",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "0453",
+    "decoded_value": 1107,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:00.161302",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "0063",
+    "decoded_value": 99,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:01.218893",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "0080",
+    "decoded_value": 128,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:02.231937",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "0660",
+    "decoded_value": 1632,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:03.241454",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "0046",
+    "decoded_value": 70,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:04.294443",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "0034",
+    "decoded_value": 52,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:05.338944",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "157c",
+    "decoded_value": 5500,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:06.384572",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "0064",
+    "decoded_value": 100,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:07.439809",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "0093",
+    "decoded_value": 147,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:08.477833",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "14a8",
+    "decoded_value": 5288,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:09.530535",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "005f",
+    "decoded_value": 95,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:10.599053",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "0087",
+    "decoded_value": 135,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:11.674984",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "11c3",
+    "decoded_value": 4547,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:12.702943",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "0061",
+    "decoded_value": 97,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:13.709832",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "001b",
+    "decoded_value": 27,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:14.739217",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "0e30",
+    "decoded_value": 3632,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:15.772258",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "0052",
+    "decoded_value": 82,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:16.834293",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "0074",
+    "decoded_value": 116,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:17.889511",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "0bcf",
+    "decoded_value": 3023,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:18.921152",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "005e",
+    "decoded_value": 94,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:19.929799",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "001e",
+    "decoded_value": 30,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:20.984345",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "1355",
+    "decoded_value": 4949,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:22.059909",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "0053",
+    "decoded_value": 83,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:23.065854",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "0047",
+    "decoded_value": 71,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:24.090978",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "0f6f",
+    "decoded_value": 3951,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:25.159510",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "006a",
+    "decoded_value": 106,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:26.202659",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "009b",
+    "decoded_value": 155,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:27.278054",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "0c35",
+    "decoded_value": 3125,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:28.338768",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "0066",
+    "decoded_value": 102,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:29.350376",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "0092",
+    "decoded_value": 146,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:30.364040",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "097b",
+    "decoded_value": 2427,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:31.386896",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "005e",
+    "decoded_value": 94,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:32.436050",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "002a",
+    "decoded_value": 42,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:33.489080",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "0670",
+    "decoded_value": 1648,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:34.493568",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "0068",
+    "decoded_value": 104,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:35.571261",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "0030",
+    "decoded_value": 48,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:36.576172",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "0e5d",
+    "decoded_value": 3677,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:37.603991",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "005b",
+    "decoded_value": 91,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:38.616730",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "002b",
+    "decoded_value": 43,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:39.657179",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "1036",
+    "decoded_value": 4150,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:40.700654",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "004b",
+    "decoded_value": 75,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:41.727888",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "0039",
+    "decoded_value": 57,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:42.784227",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "06d0",
+    "decoded_value": 1744,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:43.789849",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "0063",
+    "decoded_value": 99,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:44.822656",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "003f",
+    "decoded_value": 63,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:45.884635",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "03cc",
+    "decoded_value": 972,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:46.960793",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "006a",
+    "decoded_value": 106,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:48.036235",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "0026",
+    "decoded_value": 38,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:49.042088",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "0645",
+    "decoded_value": 1605,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:50.116687",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "0057",
+    "decoded_value": 87,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:51.138913",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "0020",
+    "decoded_value": 32,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:52.180844",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "0b30",
+    "decoded_value": 2864,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:53.188840",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "006a",
+    "decoded_value": 106,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:54.242338",
+    "can_id": "0x101",
+    "signal": "Speed",
+    "data_bytes": "006d",
+    "decoded_value": 109,
+    "unit": "km/h"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:55.270108",
+    "can_id": "0x102",
+    "signal": "RPM",
+    "data_bytes": "0872",
+    "decoded_value": 2162,
+    "unit": "rpm"
+  },
+  {
+    "timestamp": "2025-09-17T01:10:56.273678",
+    "can_id": "0x103",
+    "signal": "Temp",
+    "data_bytes": "0056",
+    "decoded_value": 86,
+    "unit": "\u00b0C"
+  }
+]

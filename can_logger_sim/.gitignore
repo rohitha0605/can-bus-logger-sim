@@ -1,0 +1,7 @@
+pycache__/
+*.pyc
+.venv/
+logs/*.csv
+logs/*.json
+*.gif
+
